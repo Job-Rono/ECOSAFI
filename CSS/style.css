@@ -1,0 +1,33 @@
+P{
+    font-size: 20px;
+    font-weight: bold;
+}
+img{
+    width: 80%;
+    height: 500px;
+    margin-left: 50px;
+    padding-left: 30px;
+    margin-right: 50px;
+}
+.division1{
+    background-color: chartreuse;
+ }
+ .division2{
+     background-color: brown;
+ }
+ .division3{
+     background-color: chocolate;
+ }
+ #main{
+     background-color: blue;
+     display: flex;
+     padding-top: 30px;
+ }
+
+
+
+
+ .imageparagraph{
+     display: flex;
+     padding-left: 10px;
+ }
